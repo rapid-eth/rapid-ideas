@@ -9,3 +9,6 @@ Twitter Agile: https://twitter.com/KamesCG/status/1194869508609134595
 
 ### Trust Token - A Collectible that Starts as Verifiable Credential
 https://twitter.com/KamesCG/status/1194873939958411267
+
+### EVM opcode to allow meta-tx with signer as msg.sender
+Would require hard fork
