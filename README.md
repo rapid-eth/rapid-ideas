@@ -12,3 +12,6 @@ https://twitter.com/KamesCG/status/1194873939958411267
 
 ### EVM opcode to allow meta-tx with signer as msg.sender
 Would require hard fork
+
+### MerkleMint ERC721 Tokens
+https://github.com/crazyrabbitLTC/MerkleMint
