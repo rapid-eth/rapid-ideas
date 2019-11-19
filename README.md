@@ -15,3 +15,7 @@ Would require hard fork
 
 ### MerkleMint ERC721 Tokens
 https://github.com/crazyrabbitLTC/MerkleMint
+
+### Ethereum StackShare
+https://stackshare.io/stacks#!
+(For dev ex efforts - could be tied into 1MD Hub)
