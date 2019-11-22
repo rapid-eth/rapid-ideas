@@ -19,3 +19,6 @@ https://github.com/crazyrabbitLTC/MerkleMint
 ### Ethereum StackShare
 https://stackshare.io/stacks#!
 (For dev ex efforts - could be tied into 1MD Hub)
+
+### Cerebellum
+Extension of Cerebro with a wider target application base.
